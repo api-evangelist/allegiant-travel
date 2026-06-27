@@ -25,7 +25,7 @@ common:
     url: https://www.linkedin.com/company/allegiant-air
   - type: Website
     url: https://www.allegiantair.com/
-  - type: CorporateWebsite
+  - type: Website
     url: https://ir.allegiantair.com/
 maintainers:
   - FN: API Evangelist
