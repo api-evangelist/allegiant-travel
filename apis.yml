@@ -27,6 +27,10 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/allegiant-travel.png
 tags:
   - Travel
+  - Airlines
+  - Aviation
+tags_raw:
+  - Travel
   - Airline
   - Aviation
 description: >-
