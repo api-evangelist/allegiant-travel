@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "allegiant-travel",
+    "captured_at": "2026-10-11T141119",
+    "source_url": "https://www.allegiantair.com/",
+    "source_type": "Website",
+    "file": "allegiant-travel-2026-10-11T141119.png",
+    "bytes": 49305,
+    "capture": "playwright-local"
+  }
+]
